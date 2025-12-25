@@ -17,4 +17,3 @@ This repository contains the source code and documentation for the Inception Ren
     pip install -r requirements_dev.txt
     ```
 
-    
